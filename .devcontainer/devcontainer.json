@@ -1,0 +1,20 @@
+{
+    "name": "Java and Git Dev Container",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "vscjava.vscode-java-pack",
+          "GitHub.copilot"
+        ],
+        "settings": {
+          "java.home": "/usr/lib/jvm/java-17-openjdk-amd64"
+        }
+      }
+    },
+    "postCreateCommand": "java -version && git --version",
+    "remoteUser": "codespace"
+  }
+    
