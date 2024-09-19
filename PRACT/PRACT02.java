@@ -45,11 +45,11 @@ public class PRACT02 {
                     System.out.print("Ingrese el nombre: ");
                     nombre = leer.next();
                     
-                    calificacion1 = leerCalificacion("Ingrese la calificación 1: ", leer);
-                    calificacion2 = leerCalificacion("Ingrese la calificación 2: ", leer);
-                    calificacion3 = leerCalificacion("Ingrese la calificación 3: ", leer);
-                    calificacion4 = leerCalificacion("Ingrese la calificación 4: ", leer);
-                    calificacion5 = leerCalificacion("Ingrese la calificación 5: ", leer);
+                    calificacion1 = validarCalif("Ingrese la calificación 1: ", leer);
+                    calificacion2 = validarCalif("Ingrese la calificación 2: ", leer);
+                    calificacion3 = validarCalif("Ingrese la calificación 3: ", leer);
+                    calificacion4 = validarCalif("Ingrese la calificación 4: ", leer);
+                    calificacion5 = validarCalif("Ingrese la calificación 5: ", leer);
                     
                     // acomodar
                     calificacionMin = Math.min(Math.min(calificacion1, calificacion2), 
@@ -99,7 +99,7 @@ public class PRACT02 {
     }
 
     // PUNTOS EXTRAS: validar calificaciones
-    public static double leerCalificacion(String mensaje, Scanner scanner) {
+    public static double validarCalif(String mensaje, Scanner scanner) {
         double calificacion = -1;
         do {
             System.out.print(mensaje);
