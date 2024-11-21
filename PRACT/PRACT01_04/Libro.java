@@ -1,3 +1,4 @@
+package PRACT01_04;
 import java.util.Scanner;
 
 public class Libro {

@@ -1,3 +1,4 @@
+package PRACT01_04;
 /* 
 1. Crear una clase llamada "Mexicano" que contenga como atributos: nombre, CURP, y RFC.
 2. Implementar un algoritmo para calcular el CURP y RFC de una persona física.

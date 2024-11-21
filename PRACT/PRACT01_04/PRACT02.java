@@ -1,3 +1,4 @@
+package PRACT01_04;
 /* Ejercicio: Implementar un menú con sus respectivas opciones:
 1 Captura de nombre y calificaciones.
 2 Imprimir calificaciones y promedio de calificaciones.

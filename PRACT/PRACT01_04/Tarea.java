@@ -1,3 +1,4 @@
+package PRACT01_04;
 /* Gestión de Tareas Pendientes 
 Crea un programa que gestione una lista de tareas pendientes. El programa debe permitir al usuario:
 Agregar una nueva tarea.

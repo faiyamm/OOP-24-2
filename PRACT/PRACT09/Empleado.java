@@ -1,4 +1,4 @@
-package polimorfismo;
+package PRACT09;
 
 /*
 Clase Base Empleado: Crea una clase Empleado que tenga:

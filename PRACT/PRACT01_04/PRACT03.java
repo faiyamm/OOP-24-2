@@ -1,3 +1,4 @@
+package PRACT01_04;
 /* Escribe un programa en Java que solicite al usuario una serie de números y luego calcule y muestre las siguientes estadísticas:
 El número total de elementos.
 La suma de los elementos.

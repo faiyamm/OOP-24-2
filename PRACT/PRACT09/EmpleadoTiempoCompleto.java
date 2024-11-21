@@ -1,4 +1,4 @@
-package polimorfismo;
+package PRACT09;
 
 public class EmpleadoTiempoCompleto extends Empleado {
 
