@@ -1,0 +1,12 @@
+Nombre: Alumno 1
+Matrícula: 1
+Calificaciones: [67.0, 87.0, 97.0, 100.0, 78.0, 99.0]
+Promedio: 88.0
+Nombre: Alumno 2
+Matrícula: 2
+Calificaciones: [87.0, 58.0, 67.0, 98.0, 78.0, 99.0]
+Promedio: 81.16666666666667
+Nombre: Alumno 3
+Matrícula: 3
+Calificaciones: [69.0, 77.0, 100.0, 86.0, 81.0, 91.0]
+Promedio: 84.0
